@@ -1,0 +1,29 @@
+EXPLANATION VIDEO : 
+In today's world, the safety of school children during transportation is a 
+significant concern for both parents and schools. To address this, we are developing a 
+comprehensive school bus safety system that combines advanced health 
+monitoring, automated vehicle control, and real-time student tracking. The primary 
+goal of the system is to enhance the safety of the bus driver and students, ensuring 
+secure transportation .The core of the system is its ability to continuously monitor the 
+driver’s heart rate using health sensors. In case of an emergency, such as the driver 
+experiencing a high heart rate that could indicate a heart attack, the system takes 
+immediate action. First, it sends alerts to the passengers, the bus owner, and 
+emergency medical services. This ensures that help is on the way while the situation 
+is still developing. Additionally, the bus is programmed to automatically park itself 
+in a safe location. This prevents the bus from continuing on the road in an unsafe 
+condition, significantly reducing the risk of accidents. 
+Beyond driver safety, this system also includes a student tracking feature. Each 
+student's entry and exit from the bus is monitored, and automatic messages are sent 
+to their parents in real time. This keeps parents informed about when their child 
+boards and exits the bus, enhancing the overall safety and transparency of the school 
+transportation process. By combining health monitoring, intelligent vehicle control, 
+and student tracking, this project aims to make school buses safer and more reliable. 
+The system’s dual focus on driver health and student safety provides a 
+comprehensive solution to modern challenges in school transportation, offering 
+peace of mind to both parents and school authorities. Through the use of embedded 
+systems, IoT, and communication technologies, the project ensures a smarter and 
+more secure transportation environment .This school bus safety system not only 
+protects the driver by monitoring their health but also ensures the safety of the 
+students through real-time alerts and automated controls. The system’s dual 
+functionality addresses key safety challenges in school transportation, making it a 
+valuable contribution to modernizing and securing school buses. 
